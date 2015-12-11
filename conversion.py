@@ -1,7 +1,7 @@
 def main():
 
-	print "You work for the currency exhange station and need the"
-	print "exchange rate for US citizens for different currenies"
+	print "You work for the currency exchange station and need the"
+	print "exchange rate for US citizens for different currencies"
 	print "around the world." 
 
 	def curr_selection():
